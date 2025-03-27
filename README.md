@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=lunalism&fontSize=50&fontAlign=80&fontAlignY=40)
 
+**PROFILE 📍**
+
+![Static Badge](https://img.shields.io/badge/NAVER%20BLOG-298D46?style=for-the-badge&logo=naver&logoColor=white&link=https%3A%2F%2Fblog.naver.com%2Fchrisholic_)
+
 <!--
 **lunalism/lunalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
