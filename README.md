@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=lunalism&fontSize=50&fontAlign=80&fontAlignY=40)
 
 <!--
