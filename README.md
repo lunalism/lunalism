@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=lunalism&fontSize=40&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=lunalism&fontSize=50&fontAlign=80&fontAlignY=40)
 
 <!--
 **lunalism/lunalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
