@@ -14,6 +14,20 @@
 <br>
 <br>
 
+<h3>USED LANGUAGE 💡</h3>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=Radix%20UI&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=Shadcnui&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
+  <br>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/SlickPic-FF880F?style=for-the-badge&logo=SlickPic&logoColor=FFFFFF"/>
+<br>
+<br>
 </div>
 <!--
 **lunalism/lunalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
