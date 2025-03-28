@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=Radix%20UI&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
+  <br>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=Shadcnui&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
@@ -34,7 +35,7 @@
 <br>
 <br>
 
-<h3>USED EDI 🛠</h3>
+<h3>USED IDE 🛠</h3>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-6100FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=FFFFFF"/>
