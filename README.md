@@ -6,6 +6,7 @@
 <br>
 <h3><b>PROFILE 📍</b></h3>
   <a href="https://blog.naver.com/chrisholic_"><img src="https://img.shields.io/badge/NAVER%20BLOG-298D46?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/byungjinchoi/"><img src="https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <br>
 
@@ -22,12 +23,35 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=Shadcnui&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
-  <br>
+<br>
+<br>
+
+<h3>USED API 🎄</h3>
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SlickPic-FF880F?style=for-the-badge&logo=SlickPic&logoColor=FFFFFF"/>
 <br>
 <br>
+
+<h3>USED EDI 🛠</h3>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-6100FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=FFFFFF"/>
+<br>
+<br>
+
+<h3>USED FLIGHT ✈️</h3>
+  <img src="https://img.shields.io/badge/britishairways-2E5C99?style=for-the-badge&logo=britishairways&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/emirates-D71921?style=for-the-badge&logo=emirates&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/etihadairways-BD8B13?style=for-the-badge&logo=etihadairways&logoColor=FFFFFF"/>
+  <br>
+  <img src="https://img.shields.io/badge/Finnair-0C0243?style=for-the-badge&logo=finnair&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Iberia-D7192D?style=for-the-badge&logo=iberia&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Qatar%20Airways-5C0D34?style=for-the-badge&logo=qatar%20airways&logoColor=FFFFFF"/>
+<br>
+<br>
+
+
 </div>
 <!--
 **lunalism/lunalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
