@@ -11,8 +11,7 @@
 <br>
 
 <h3>TOY PROJECT 🧸</h3>
-  <a href="https://github.com/lunalism/onthelist"><img src="https://img.shields.io/badge/ON%20THE%20LIST%20WEB-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-  <a href="https://github.com/lunalism/onthelist-ios"><img src="https://img.shields.io/badge/ON%20THE%20LIST%20iOS-4B32C3?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://github.com/lunalism/the-million-pixel-wall"><img src="https://img.shields.io/badge/ON%20THE%20LIST%20WEB-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>
 <br>
 
