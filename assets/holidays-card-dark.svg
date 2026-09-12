@@ -1,0 +1,28 @@
+<svg width="580" height="230" viewBox="0 0 580 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="580" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111820"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="cal" x1="58" y1="76" x2="132" y2="161" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="230" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="578" height="228" rx="21" stroke="#21262D"/>
+  <rect x="42" y="68" width="104" height="104" rx="24" fill="#132238"/>
+  <rect x="61" y="84" width="66" height="66" rx="14" fill="url(#cal)"/>
+  <rect x="70" y="95" width="48" height="42" rx="7" fill="#F0F6FC"/>
+  <rect x="70" y="95" width="48" height="11" rx="5.5" fill="#9CC7FF"/>
+  <circle cx="82" cy="117" r="3" fill="#1F6FEB"/>
+  <circle cx="94" cy="117" r="3" fill="#1F6FEB"/>
+  <circle cx="106" cy="117" r="3" fill="#1F6FEB"/>
+  <circle cx="82" cy="129" r="3" fill="#1F6FEB"/>
+  <circle cx="94" cy="129" r="3" fill="#1F6FEB"/>
+  <text x="176" y="69" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2">FEATURED PROJECT / 02</text>
+  <text x="176" y="111" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="750">holidays</text>
+  <text x="176" y="142" fill="#C9D1D9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Auditable public-holiday calendar feeds.</text>
+  <text x="176" y="179" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="650">KR · JP · DE · iCalendar · Automation</text>
+  <text x="515" y="190" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24">↗</text>
+</svg>
