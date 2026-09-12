@@ -1,67 +1,38 @@
-<table>
-<tr>
-<td width="68%" valign="middle">
-
-# Byungjin Choi
-
-### IT Infrastructure · Product Engineering · iOS
-
-I build **reliable systems** at work and **small products** in my own time.
-
-I care about the space between technology and everyday life —
-where good engineering becomes something people simply enjoy using.
-
-[LinkedIn](https://www.linkedin.com/in/byungjinchoi/) · [Naver Blog](https://blog.naver.com/chrisholic_) · [GitHub](https://github.com/lunalism)
-
-</td>
-<td width="32%" align="right" valign="middle">
-
-<img src="https://github.com/lunalism.png?size=440" width="220" alt="Byungjin Choi" />
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-### BUILD · EXPLORE · REPEAT
+<img src="./assets/hero-dark.svg" width="100%" alt="Byungjin Choi — lunalism" />
 
-*Technology is more interesting when it makes ordinary days a little better.*
+<br>
+
+<a href="https://www.linkedin.com/in/byungjinchoi/"><img src="https://img.shields.io/badge/LinkedIn-Byungjin%20Choi-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://blog.naver.com/chrisholic_"><img src="https://img.shields.io/badge/Naver%20Blog-chrisholic__-161B22?style=for-the-badge&logo=naver&logoColor=03C75A" alt="Naver Blog" /></a>
+<a href="https://github.com/lunalism"><img src="https://img.shields.io/badge/GitHub-@lunalism-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 <br>
 
-## Selected Work
+### `01 / PROFILE`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-### 🎞 Mellow
+## Build useful things. Keep the complexity underneath.
 
-**Mini-vlog camera for everyday moments.**
+I work across **IT infrastructure, operations, and product engineering** — from dependable systems behind the scenes to small products people can simply enjoy using.
 
-An iPhone-first camera app designed to make short vlogs without turning the experience into a full video editor.
-
-`Swift` `SwiftUI` `AVFoundation` `iOS 18+`
-
-→ [Explore Mellow](https://github.com/lunalism/Mellow)
+Right now, most of my personal work sits around **iOS, automation, data, and practical everyday tools**.
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-### 📅 holidays
+**FOCUS**
 
-**Holiday calendars built from rules and sources.**
-
-Subscribable iCalendar feeds for South Korea, Japan, and Germany, with source-aware rules and automated generation.
-
-`TypeScript` `iCalendar` `Automation` `Open Data`
-
-→ [Explore holidays](https://github.com/lunalism/holidays)
+`iOS` · `SwiftUI`  
+`Infrastructure` · `Networking`  
+`Automation` · `Product`  
+`Open Data` · `UX`
 
 </td>
 </tr>
@@ -69,62 +40,68 @@ Subscribable iCalendar feeds for South Korea, Japan, and Germany, with source-aw
 
 <br>
 
-## The Workbench
-
-| | | | |
-|:---|:---|:---|:---|
-| **APP** | **WEB** | **SYSTEMS** | **TOOLS** |
-| Swift · SwiftUI | TypeScript · React | Networking · Monitoring | Xcode · Cursor |
-| AVFoundation · Flutter | Next.js · Supabase | Automation · GitHub Actions | VS Code · iTerm2 |
-
-<br>
-
-## A few things I believe
+### `02 / FEATURED PROJECTS`
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 01 / KEEP IT CALM
-
-Interfaces should feel obvious.
-
-Less noise. Fewer decisions. More room for the thing that actually matters.
-
+<td width="50%" align="center">
+<a href="https://github.com/lunalism/Mellow">
+<img src="./assets/mellow-card-dark.svg" width="100%" alt="Mellow" />
+</a>
 </td>
-<td width="33%" valign="top">
-
-### 02 / MAKE IT LAST
-
-Reliable is a design choice.
-
-I prefer systems that are understandable, observable, and boring in the best possible way.
-
-</td>
-<td width="34%" valign="top">
-
-### 03 / STAY CURIOUS
-
-Build things. Break things. Learn why.
-
-From infrastructure to mobile apps, I like exploring how ideas become useful products.
-
+<td width="50%" align="center">
+<a href="https://github.com/lunalism/holidays">
+<img src="./assets/holidays-card-dark.svg" width="100%" alt="holidays" />
+</a>
 </td>
 </tr>
 </table>
 
 <br>
 
-## From the Lab
-
-[Weather](https://github.com/lunalism/Weather) · [timekeeping](https://github.com/lunalism/timekeeping) · [noise](https://github.com/lunalism/noise) · [haileelog](https://github.com/lunalism/haileelog)
-
-<br>
+### `03 / TOOLBOX`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" width="100%" alt="" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=58A6FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+<img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
 
-<sub>lunalism · build something worth keeping</sub>
+</div>
+
+<br>
+
+### `04 / ACTIVITY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lunalism&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalism&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top languages" />
+
+</div>
+
+<br>
+
+### `05 / MORE FROM THE LAB`
+
+[**Weather ↗**](https://github.com/lunalism/Weather) &nbsp;·&nbsp;
+[**timekeeping ↗**](https://github.com/lunalism/timekeeping) &nbsp;·&nbsp;
+[**noise ↗**](https://github.com/lunalism/noise) &nbsp;·&nbsp;
+[**haileelog ↗**](https://github.com/lunalism/haileelog)
+
+<br>
+
+---
+
+<div align="center">
+
+<sub><strong>LUNALISM</strong> · reliable systems / useful products / continuous learning</sub>
 
 </div>
