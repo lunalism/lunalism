@@ -1,58 +1,22 @@
-<div align="center">
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-<sub>VOL. 01 · SEPTEMBER 2026 · SEOUL / PARIS / TOKYO</sub>
+# Byungjin Choi
 
-# LUNALISM
+### IT Infrastructure · Product Engineering · iOS
 
-### BYUNGJIN CHOI — IT INFRASTRUCTURE / PRODUCT ENGINEERING / iOS
+I build **reliable systems** at work and **small products** in my own time.
 
-*Notes on systems, software, and small products made to feel simple.*
+I care about the space between technology and everyday life —
+where good engineering becomes something people simply enjoy using.
 
 [LinkedIn](https://www.linkedin.com/in/byungjinchoi/) · [Naver Blog](https://blog.naver.com/chrisholic_) · [GitHub](https://github.com/lunalism)
 
-</div>
-
----
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-## THE COVER STORY
-
-# Mellow
-
-### A camera for the moments that do not need a full editor.
-
-Mellow is an **iPhone-first mini-vlog app** built around a simple idea: record a few short moments, arrange them lightly, and leave with a finished video.
-
-No timeline full of controls. No professional-editor mindset. Just enough structure to turn everyday clips into something worth keeping.
-
-**Built with**  
-Swift · SwiftUI · AVFoundation · iOS 18+
-
-**[READ THE PROJECT →](https://github.com/lunalism/Mellow)**
-
 </td>
-<td width="38%" valign="top">
+<td width="32%" align="right" valign="middle">
 
-### ISSUE INDEX
-
-**01** — Mellow  
-A calmer way to make a mini vlog.
-
-**02** — holidays  
-Public-holiday data with provenance.
-
-**03** — Workbench  
-The tools and systems behind the work.
-
-**04** — Field Notes  
-How I like to build.
-
-<br>
-
-> **MAKE THE COMPLEXITY STAY UNDERNEATH.**
+<img src="https://github.com/lunalism.png?size=440" width="220" alt="Byungjin Choi" />
 
 </td>
 </tr>
@@ -62,147 +26,105 @@ How I like to build.
 
 <div align="center">
 
-<sub>FEATURE 02 / DATA, RULES & AUTOMATION</sub>
+### BUILD · EXPLORE · REPEAT
 
-# holidays
-
-### Calendars you can subscribe to — and audit.
+*Technology is more interesting when it makes ordinary days a little better.*
 
 </div>
 
+<br>
+
+## Selected Work
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Most holiday feeds are just lists of dates.
+### 🎞 Mellow
 
-This project treats the data differently: **South Korea, Japan, and Germany are modeled from rules and primary sources**, then published as subscribable iCalendar feeds.
+**Mini-vlog camera for everyday moments.**
 
-It includes country-level feeds, German state-level calendars, and KR/JP combined or difference feeds.
+An iPhone-first camera app designed to make short vlogs without turning the experience into a full video editor.
 
-**[OPEN HOLIDAYS →](https://github.com/lunalism/holidays)**
+`Swift` `SwiftUI` `AVFoundation` `iOS 18+`
+
+→ [Explore Mellow](https://github.com/lunalism/Mellow)
 
 </td>
 <td width="50%" valign="top">
 
-### WHY IT EXISTS
+### 📅 holidays
 
-**Source-aware**  
-Rules and official sources are kept visible.
+**Holiday calendars built from rules and sources.**
 
-**Auditable**  
-Git history and rule files show what changed and why.
+Subscribable iCalendar feeds for South Korea, Japan, and Germany, with source-aware rules and automated generation.
 
-**Automated**  
-Feeds are generated and refreshed on schedule.
+`TypeScript` `iCalendar` `Automation` `Open Data`
 
-**Practical**  
-The output is something people can actually subscribe to.
+→ [Explore holidays](https://github.com/lunalism/holidays)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<sub>DESK / 03</sub>
+## The Workbench
 
-# WORKBENCH
+| | | | |
+|:---|:---|:---|:---|
+| **APP** | **WEB** | **SYSTEMS** | **TOOLS** |
+| Swift · SwiftUI | TypeScript · React | Networking · Monitoring | Xcode · Cursor |
+| AVFoundation · Flutter | Next.js · Supabase | Automation · GitHub Actions | VS Code · iTerm2 |
 
-<table>
-<tr>
-<td width="25%" valign="top">
+<br>
 
-### APP
-Swift  
-SwiftUI  
-AVFoundation  
-Flutter  
-Dart
-
-</td>
-<td width="25%" valign="top">
-
-### WEB
-TypeScript  
-React  
-Next.js  
-Supabase
-
-</td>
-<td width="25%" valign="top">
-
-### SYSTEMS
-Networking  
-Monitoring  
-Automation  
-GitHub Actions
-
-</td>
-<td width="25%" valign="top">
-
-### TOOLS
-Xcode  
-Cursor  
-VS Code  
-iTerm2
-
-</td>
-</tr>
-</table>
-
----
+## A few things I believe
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+### 01 / KEEP IT CALM
+
+Interfaces should feel obvious.
+
+Less noise. Fewer decisions. More room for the thing that actually matters.
+
+</td>
+<td width="33%" valign="top">
+
+### 02 / MAKE IT LAST
+
+Reliable is a design choice.
+
+I prefer systems that are understandable, observable, and boring in the best possible way.
+
+</td>
 <td width="34%" valign="top">
 
-<sub>FIELD NOTE / A</sub>
+### 03 / STAY CURIOUS
 
-## CALM
+Build things. Break things. Learn why.
 
-A good interface should not ask for attention just because it can.
-
-Reduce decisions. Keep hierarchy clear. Let the product get out of the way.
-
-</td>
-<td width="33%" valign="top">
-
-<sub>FIELD NOTE / B</sub>
-
-## DEPENDABLE
-
-I prefer systems that are understandable at 3 a.m. over systems that are merely impressive at 3 p.m.
-
-Boring can be a feature.
-
-</td>
-<td width="33%" valign="top">
-
-<sub>FIELD NOTE / C</sub>
-
-## VERIFIABLE
-
-Important data and decisions should have provenance.
-
-Document the source. Record the trade-off. Make the reasoning inspectable.
+From infrastructure to mobile apps, I like exploring how ideas become useful products.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<sub>FROM THE ARCHIVE / SELECTED EXPERIMENTS</sub>
+## From the Lab
 
-### [Weather](https://github.com/lunalism/Weather) · [timekeeping](https://github.com/lunalism/timekeeping) · [noise](https://github.com/lunalism/noise) · [haileelog](https://github.com/lunalism/haileelog)
+[Weather](https://github.com/lunalism/Weather) · [timekeeping](https://github.com/lunalism/timekeeping) · [noise](https://github.com/lunalism/noise) · [haileelog](https://github.com/lunalism/haileelog)
 
 <br>
 
 <div align="center">
 
-— LUNALISM —
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" width="100%" alt="" />
 
-<sub>quiet interfaces · reliable systems · useful software</sub>
+<sub>lunalism · build something worth keeping</sub>
 
 </div>
