@@ -1,70 +1,121 @@
 <div align="center">
-<br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=lunalism&fontSize=50&fontAlign=80&fontAlignY=40)
+# Hi, I'm Byungjin Choi 👋
 
-<br>
-<h3><b>PROFILE 📍</b></h3>
-  <a href="https://blog.naver.com/chrisholic_"><img src="https://img.shields.io/badge/NAVER%20BLOG-298D46?style=for-the-badge&logo=naver&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/byungjinchoi/"><img src="https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-<br>
+### IT Infrastructure · Product Engineering · iOS
 
-<h3>TOY PROJECT 🧸</h3>
-  <a href="https://github.com/lunalism/the-million-pixel-wall"><img src="https://img.shields.io/badge/THE%20MILLION%20PIXEL%20WALL-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-<br>
-<br>
+I like building useful things that feel simple on the surface and stay reliable underneath.
 
-<h3>USED LANGUAGE 💡</h3>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=Radix%20UI&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
-  <br>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=Shadcnui&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
-<br>
-<br>
-
-<h3>USED API 🎄</h3>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SlickPic-FF880F?style=for-the-badge&logo=SlickPic&logoColor=FFFFFF"/>
-<br>
-<br>
-
-<h3>USED IDE 🛠</h3>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-6100FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=FFFFFF"/>
-<br>
-<br>
-
-<h3>USED FLIGHT ✈️</h3>
-  <img src="https://img.shields.io/badge/britishairways-2E5C99?style=for-the-badge&logo=britishairways&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/emirates-D71921?style=for-the-badge&logo=emirates&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/etihadairways-BD8B13?style=for-the-badge&logo=etihadairways&logoColor=FFFFFF"/>
-  <br>
-  <img src="https://img.shields.io/badge/Finnair-0C0243?style=for-the-badge&logo=finnair&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Iberia-D7192D?style=for-the-badge&logo=iberia&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Qatar%20Airways-5C0D34?style=for-the-badge&logo=qatar%20airways&logoColor=FFFFFF"/>
-<br>
-<br>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Byungjin%20Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byungjinchoi/)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-chrisholic__-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/chrisholic_)
+[![GitHub](https://img.shields.io/badge/GitHub-lunalism-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lunalism)
 
 </div>
-<!--
-**lunalism/lunalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🧩 I work across **IT infrastructure, support, operations, and product engineering**.
+- 📱 Currently building **Mellow**, an iPhone-first mini-vlog app with **Swift + SwiftUI**.
+- 🌏 Interested in products that connect technology with everyday life across **Korea, Japan, and Europe**.
+- 🛠️ I enjoy turning rough ideas into practical, maintainable products.
+- ✨ I care about clear UX, reliable systems, and details that make software feel intentional.
+
+## Current focus
+
+```text
+Build useful products.
+Keep the interface calm.
+Keep the system dependable.
+Ship, learn, improve.
+```
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎞️ [Mellow](https://github.com/lunalism/Mellow)
+An iPhone-first mini-vlog app for capturing short everyday moments and turning them into a simple finished video.
+
+`Swift` `SwiftUI` `iOS 18+` `AVFoundation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [holidays](https://github.com/lunalism/holidays)
+A project exploring public-holiday information and practical date-based experiences.
+
+`Web` `Product` `Data`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ [Weather](https://github.com/lunalism/Weather)
+A focused weather project built around a clean, lightweight experience.
+
+`App` `API` `UI`
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ [timekeeping](https://github.com/lunalism/timekeeping)
+A compact project around time, tracking, and everyday utility.
+
+`Utility` `Product` `UX`
+
+</td>
+</tr>
+</table>
+
+## Toolbox
+
+<div align="center">
+
+**Product & App**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Backend & Platform**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+**Tools**
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
+
+</div>
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lunalism&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalism&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build thoughtfully. Ship steadily. 🌙
+
+<sub>Thanks for visiting.</sub>
+
+</div>
