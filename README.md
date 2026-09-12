@@ -1,70 +1,208 @@
 <div align="center">
-<br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=lunalism&fontSize=50&fontAlign=80&fontAlignY=40)
+<sub>VOL. 01 · SEPTEMBER 2026 · SEOUL / PARIS / TOKYO</sub>
 
-<br>
-<h3><b>PROFILE 📍</b></h3>
-  <a href="https://blog.naver.com/chrisholic_"><img src="https://img.shields.io/badge/NAVER%20BLOG-298D46?style=for-the-badge&logo=naver&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/byungjinchoi/"><img src="https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-<br>
+# LUNALISM
 
-<h3>TOY PROJECT 🧸</h3>
-  <a href="https://github.com/lunalism/the-million-pixel-wall"><img src="https://img.shields.io/badge/THE%20MILLION%20PIXEL%20WALL-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-<br>
-<br>
+### BYUNGJIN CHOI — IT INFRASTRUCTURE / PRODUCT ENGINEERING / iOS
 
-<h3>USED LANGUAGE 💡</h3>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=Radix%20UI&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
-  <br>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=Shadcnui&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/>
-<br>
-<br>
+*Notes on systems, software, and small products made to feel simple.*
 
-<h3>USED API 🎄</h3>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SlickPic-FF880F?style=for-the-badge&logo=SlickPic&logoColor=FFFFFF"/>
-<br>
-<br>
-
-<h3>USED IDE 🛠</h3>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-6100FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=FFFFFF"/>
-<br>
-<br>
-
-<h3>USED FLIGHT ✈️</h3>
-  <img src="https://img.shields.io/badge/britishairways-2E5C99?style=for-the-badge&logo=britishairways&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/emirates-D71921?style=for-the-badge&logo=emirates&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/etihadairways-BD8B13?style=for-the-badge&logo=etihadairways&logoColor=FFFFFF"/>
-  <br>
-  <img src="https://img.shields.io/badge/Finnair-0C0243?style=for-the-badge&logo=finnair&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Iberia-D7192D?style=for-the-badge&logo=iberia&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Qatar%20Airways-5C0D34?style=for-the-badge&logo=qatar%20airways&logoColor=FFFFFF"/>
-<br>
-<br>
-
+[LinkedIn](https://www.linkedin.com/in/byungjinchoi/) · [Naver Blog](https://blog.naver.com/chrisholic_) · [GitHub](https://github.com/lunalism)
 
 </div>
-<!--
-**lunalism/lunalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## THE COVER STORY
+
+# Mellow
+
+### A camera for the moments that do not need a full editor.
+
+Mellow is an **iPhone-first mini-vlog app** built around a simple idea: record a few short moments, arrange them lightly, and leave with a finished video.
+
+No timeline full of controls. No professional-editor mindset. Just enough structure to turn everyday clips into something worth keeping.
+
+**Built with**  
+Swift · SwiftUI · AVFoundation · iOS 18+
+
+**[READ THE PROJECT →](https://github.com/lunalism/Mellow)**
+
+</td>
+<td width="38%" valign="top">
+
+### ISSUE INDEX
+
+**01** — Mellow  
+A calmer way to make a mini vlog.
+
+**02** — holidays  
+Public-holiday data with provenance.
+
+**03** — Workbench  
+The tools and systems behind the work.
+
+**04** — Field Notes  
+How I like to build.
+
+<br>
+
+> **MAKE THE COMPLEXITY STAY UNDERNEATH.**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<sub>FEATURE 02 / DATA, RULES & AUTOMATION</sub>
+
+# holidays
+
+### Calendars you can subscribe to — and audit.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Most holiday feeds are just lists of dates.
+
+This project treats the data differently: **South Korea, Japan, and Germany are modeled from rules and primary sources**, then published as subscribable iCalendar feeds.
+
+It includes country-level feeds, German state-level calendars, and KR/JP combined or difference feeds.
+
+**[OPEN HOLIDAYS →](https://github.com/lunalism/holidays)**
+
+</td>
+<td width="50%" valign="top">
+
+### WHY IT EXISTS
+
+**Source-aware**  
+Rules and official sources are kept visible.
+
+**Auditable**  
+Git history and rule files show what changed and why.
+
+**Automated**  
+Feeds are generated and refreshed on schedule.
+
+**Practical**  
+The output is something people can actually subscribe to.
+
+</td>
+</tr>
+</table>
+
+---
+
+<sub>DESK / 03</sub>
+
+# WORKBENCH
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### APP
+Swift  
+SwiftUI  
+AVFoundation  
+Flutter  
+Dart
+
+</td>
+<td width="25%" valign="top">
+
+### WEB
+TypeScript  
+React  
+Next.js  
+Supabase
+
+</td>
+<td width="25%" valign="top">
+
+### SYSTEMS
+Networking  
+Monitoring  
+Automation  
+GitHub Actions
+
+</td>
+<td width="25%" valign="top">
+
+### TOOLS
+Xcode  
+Cursor  
+VS Code  
+iTerm2
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+<sub>FIELD NOTE / A</sub>
+
+## CALM
+
+A good interface should not ask for attention just because it can.
+
+Reduce decisions. Keep hierarchy clear. Let the product get out of the way.
+
+</td>
+<td width="33%" valign="top">
+
+<sub>FIELD NOTE / B</sub>
+
+## DEPENDABLE
+
+I prefer systems that are understandable at 3 a.m. over systems that are merely impressive at 3 p.m.
+
+Boring can be a feature.
+
+</td>
+<td width="33%" valign="top">
+
+<sub>FIELD NOTE / C</sub>
+
+## VERIFIABLE
+
+Important data and decisions should have provenance.
+
+Document the source. Record the trade-off. Make the reasoning inspectable.
+
+</td>
+</tr>
+</table>
+
+---
+
+<sub>FROM THE ARCHIVE / SELECTED EXPERIMENTS</sub>
+
+### [Weather](https://github.com/lunalism/Weather) · [timekeeping](https://github.com/lunalism/timekeeping) · [noise](https://github.com/lunalism/noise) · [haileelog](https://github.com/lunalism/haileelog)
+
+<br>
+
+<div align="center">
+
+— LUNALISM —
+
+<sub>quiet interfaces · reliable systems · useful software</sub>
+
+</div>
