@@ -6,6 +6,7 @@
 
 <a href="https://www.linkedin.com/in/byungjinchoi/"><img src="https://img.shields.io/badge/LinkedIn-Byungjin%20Choi-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://blog.naver.com/chrisholic_"><img src="https://img.shields.io/badge/Naver%20Blog-chrisholic__-161B22?style=for-the-badge&logo=naver&logoColor=03C75A" alt="Naver Blog" /></a>
+<a href="https://www.youtube.com/@onthe_song"><img src="https://img.shields.io/badge/YouTube-@onthe__song-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
 <a href="https://github.com/lunalism"><img src="https://img.shields.io/badge/GitHub-@lunalism-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
