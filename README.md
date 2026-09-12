@@ -1,121 +1,113 @@
 <div align="center">
 
-# Hi, I'm Byungjin Choi 👋
+<sub><strong>LUNALISM / BYUNGJIN CHOI</strong></sub>
 
-### IT Infrastructure · Product Engineering · iOS
+# Systems that hold up.  
+# Products that stay out of the way.
 
-I like building useful things that feel simple on the surface and stay reliable underneath.
+**IT Infrastructure · iOS · Product Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Byungjin%20Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byungjinchoi/)
-[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-chrisholic__-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/chrisholic_)
-[![GitHub](https://img.shields.io/badge/GitHub-lunalism-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lunalism)
+I build dependable systems for work and small, useful products for everyday life.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byungjinchoi/)
+[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/chrisholic_)
+[![GitHub](https://img.shields.io/badge/@lunalism-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lunalism)
 
 </div>
 
----
+<br>
 
-## About
-
-- 🧩 I work across **IT infrastructure, support, operations, and product engineering**.
-- 📱 Currently building **Mellow**, an iPhone-first mini-vlog app with **Swift + SwiftUI**.
-- 🌏 Interested in products that connect technology with everyday life across **Korea, Japan, and Europe**.
-- 🛠️ I enjoy turning rough ideas into practical, maintainable products.
-- ✨ I care about clear UX, reliable systems, and details that make software feel intentional.
-
-## Current focus
-
-```text
-Build useful products.
-Keep the interface calm.
-Keep the system dependable.
-Ship, learn, improve.
-```
-
-## Featured projects
+## Now
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### 🎞️ [Mellow](https://github.com/lunalism/Mellow)
-An iPhone-first mini-vlog app for capturing short everyday moments and turning them into a simple finished video.
+### 🎞️ Mellow
 
-`Swift` `SwiftUI` `iOS 18+` `AVFoundation`
+**A mini-vlog camera for moments that do not need a full editor.**
 
-</td>
-<td width="50%" valign="top">
+An iPhone-first app for recording short everyday clips, lightly arranging them, and exporting a finished video without turning the experience into a professional editing suite.
 
-### 🌍 [holidays](https://github.com/lunalism/holidays)
-A project exploring public-holiday information and practical date-based experiences.
+`Swift` `SwiftUI` `AVFoundation` `iOS 18+`
 
-`Web` `Product` `Data`
+**[Open Mellow →](https://github.com/lunalism/Mellow)**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 🌦️ [Weather](https://github.com/lunalism/Weather)
-A focused weather project built around a clean, lightweight experience.
+### 🌏 holidays
 
-`App` `API` `UI`
+**Calendar feeds backed by rules and primary sources — not copied date lists.**
 
-</td>
-<td width="50%" valign="top">
+Publishes auditable iCalendar feeds for South Korea, Japan, and Germany, including German state-level calendars and KR/JP comparison feeds.
 
-### ⏱️ [timekeeping](https://github.com/lunalism/timekeeping)
-A compact project around time, tracking, and everyday utility.
+`iCalendar` `Automation` `Data provenance` `KR · JP · DE`
 
-`Utility` `Product` `UX`
+**[Open holidays →](https://github.com/lunalism/holidays)**
 
 </td>
 </tr>
 </table>
 
-## Toolbox
+<br>
 
-<div align="center">
+## How I like to build
 
-**Product & App**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+### 01 — Calm
+Keep the interface quiet. Remove the parts that make people think harder than they need to.
 
-**Backend & Platform**
+</td>
+<td width="33%" valign="top">
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+### 02 — Dependable
+Prefer boring, understandable systems over clever ones that are difficult to operate.
 
-**Tools**
+</td>
+<td width="34%" valign="top">
 
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
+### 03 — Verifiable
+Document decisions, keep provenance, and make important data easy to inspect and challenge.
 
-</div>
+</td>
+</tr>
+</table>
 
-## GitHub
+<br>
 
-<div align="center">
+## Workbench
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lunalism&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalism&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+**Apps**  
+`Swift` · `SwiftUI` · `AVFoundation` · `Flutter` · `Dart`
 
-</div>
+**Product & Web**  
+`TypeScript` · `React` · `Next.js` · `Supabase`
+
+**Systems**  
+`IT Infrastructure` · `Networking` · `Monitoring` · `Automation` · `GitHub Actions`
+
+**Daily tools**  
+`Xcode` · `Cursor` · `VS Code` · `iTerm2`
+
+<br>
+
+## More from the lab
+
+[**Weather**](https://github.com/lunalism/Weather) ·
+[**timekeeping**](https://github.com/lunalism/timekeeping) ·
+[**noise**](https://github.com/lunalism/noise) ·
+[**haileelog**](https://github.com/lunalism/haileelog)
+
+<br>
 
 ---
 
 <div align="center">
 
-### Build thoughtfully. Ship steadily. 🌙
-
-<sub>Thanks for visiting.</sub>
+<sub>quiet interfaces · reliable systems · useful software</sub>
 
 </div>
