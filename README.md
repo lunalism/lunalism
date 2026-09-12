@@ -16,48 +16,23 @@
 
 ### `01 / PROFILE`
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ## Build useful things. Keep the complexity underneath.
 
 I work across **IT infrastructure, operations, and product engineering** — from dependable systems behind the scenes to small products people can simply enjoy using.
 
 Right now, most of my personal work sits around **iOS, automation, data, and practical everyday tools**.
 
-</td>
-<td width="35%" valign="top">
-
-**FOCUS**
-
-`iOS` · `SwiftUI`  
-`Infrastructure` · `Networking`  
-`Automation` · `Product`  
-`Open Data` · `UX`
-
-</td>
-</tr>
-</table>
+**FOCUS**  
+`iOS` · `SwiftUI` · `Infrastructure` · `Networking` · `Automation` · `Product` · `Open Data` · `UX`
 
 <br>
 
 ### `02 / FEATURED PROJECTS`
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/lunalism/Mellow">
-<img src="./assets/mellow-card-dark.svg" width="100%" alt="Mellow" />
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/lunalism/holidays">
-<img src="./assets/holidays-card-dark.svg" width="100%" alt="holidays" />
-</a>
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/lunalism/Mellow"><img src="./assets/mellow-card-dark.svg" width="49%" alt="Mellow" /></a>
+<a href="https://github.com/lunalism/holidays"><img src="./assets/holidays-card-dark.svg" width="49%" alt="holidays" /></a>
+</div>
 
 <br>
 
