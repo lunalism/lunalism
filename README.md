@@ -5,9 +5,10 @@
 <br>
 
 <a href="https://www.linkedin.com/in/byungjinchoi/"><img src="https://img.shields.io/badge/LinkedIn-Byungjin%20Choi-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/lunalism"><img src="https://img.shields.io/badge/GitHub-@lunalism-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br>
 <a href="https://blog.naver.com/chrisholic_"><img src="https://img.shields.io/badge/Naver%20Blog-chrisholic__-161B22?style=for-the-badge&logo=naver&logoColor=03C75A" alt="Naver Blog" /></a>
 <a href="https://www.youtube.com/@onthe_song"><img src="https://img.shields.io/badge/YouTube-@onthe__song-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
-<a href="https://github.com/lunalism"><img src="https://img.shields.io/badge/GitHub-@lunalism-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -83,8 +84,12 @@ Right now, most of my personal work sits around **iOS, automation, data, and pra
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lunalism&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalism&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunalism&theme=github_dark" alt="GitHub contribution activity" />
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunalism&theme=github_dark" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lunalism&theme=github_dark" alt="Languages by repository" />
 
 </div>
 
