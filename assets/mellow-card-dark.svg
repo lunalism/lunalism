@@ -1,0 +1,24 @@
+<svg width="580" height="230" viewBox="0 0 580 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="580" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111820"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="lens" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(95 104) rotate(90) scale(36)">
+      <stop stop-color="#FFD7A8"/>
+      <stop offset="0.5" stop-color="#D9915B"/>
+      <stop offset="1" stop-color="#513527"/>
+    </radialGradient>
+  </defs>
+  <rect width="580" height="230" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="578" height="228" rx="21" stroke="#21262D"/>
+  <rect x="42" y="68" width="104" height="104" rx="24" fill="#EAD7C1"/>
+  <rect x="64" y="87" width="60" height="45" rx="12" fill="#33261F"/>
+  <circle cx="94" cy="110" r="18" fill="url(#lens)"/>
+  <circle cx="118" cy="94" r="4" fill="#EAD7C1"/>
+  <text x="176" y="69" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2">FEATURED PROJECT / 01</text>
+  <text x="176" y="111" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="750">Mellow</text>
+  <text x="176" y="142" fill="#C9D1D9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Mini-vlog camera for everyday moments.</text>
+  <text x="176" y="179" fill="#58A6FF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="650">Swift · SwiftUI · AVFoundation · iOS 18+</text>
+  <text x="515" y="190" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24">↗</text>
+</svg>
